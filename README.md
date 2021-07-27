@@ -31,7 +31,10 @@ MAC_ADDRESS = "C4:BE:84:EA:66:AF"
 
 If you don't know this address, you can execute the script `find_bluetooth_device.py` in the `Utility` folder. (Only test on Ubuntu 20.04 LTS).
 
-
+Then you can launch the Python script :
+```bash
+python3 main_user_interface.py
+```
 
 ## License
 This project is licensed under the GNU General Public License v.3.
