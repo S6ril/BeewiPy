@@ -40,5 +40,5 @@ python3 main_user_interface.py
 This project is licensed under the GNU General Public License v.3.
 
 ## Acknowledgements
-* Thanks to [delkk0](https://github.com/delkk0/BeewiPy) for the Beewi Bulb interface in Python.
+* Thanks to [delkk0](https://github.com/delkk0) for the [Beewi Bulb interface](https://github.com/delkk0/BeewiPy) in Python.
 * Thanks to [IanHarvey](https://github.com/IanHarvey) for its [BluePy](https://github.com/IanHarvey/bluepy) library.
