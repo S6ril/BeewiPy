@@ -70,6 +70,7 @@ class BeewiSmartBulb_display:
         print("This method configures the bulb to be in white mode, thus letting us set the desired brightness and temperature of the light.")
 
         self.myBulb.setWhite()
+        clear()
         self.main_screen()
 
     def setColor(self):
