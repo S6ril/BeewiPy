@@ -96,7 +96,7 @@ class BeewiSmartBulb_display:
         print(red, blue, green)
 
         self.myBulb.setColor(red, green, blue)
-        # clear()
+        clear()
         self.main_screen()
 
     def setColorSequence(self):
